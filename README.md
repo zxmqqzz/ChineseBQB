@@ -51,17 +51,9 @@
 
 感谢 [jmzdd](https://github.com/jmzdd) 通过邮箱贡献的滑稽大佬表情包~ 
 
-## ChineseBQB交流论坛(可上传表情包,交流表情包相关话题)
+## 本仓库在小红书也有账号《程序员梗图火炬》
 
-[https://bbs.v2fy.com/c/chinesebqb/](https://bbs.v2fy.com/c/chinesebqb/)
-
-## ChineseBQB交流QQ群
-
-| 主题  | QQ群号  |
-| ---  | --- |
-| 奥特曼斗图群(2021年04月17日创建) |  700477996 |
-
-![广告位招租](https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/README/1631234205295EK3AQi6j.png)
+欢迎到评论区交流梗图表情包, [https://xhslink.com/m/9K4YSu8vaT1](https://xhslink.com/m/9K4YSu8vaT1), 优质表情包会收录到仓库
 
 
 ## Chinese stickers / 中国的表情包
