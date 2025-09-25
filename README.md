@@ -15,6 +15,7 @@
 
 #### 本项目Github永久开源地址: [https://github.com/zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
 
+## 友情链接：[《更纯粹的程序员梗图仓库：程序员梗图火炬》](https://github.com/zhaoolee/xiaohongshu-programmer-memes)
 
 
 ## [《ChineseBQB 在线搜图斗图工具》](https://v2fy.com/asset/0i/ChineseBQB/)
